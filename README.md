@@ -25,17 +25,24 @@
 ---
 
 ## 🔍 Sobre mí
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: auto; line-height: 1.6;">
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Arturo Roldán Sánchez"
-        self.role = "Ingeniero en Proyectos Industriales | DevOps"
-        self.passion = "Automatización de procesos y desarrollo de soluciones eficientes"
-        self.skills = ["Soporte Técnico", "Desarrollo Full-Stack", "CI/CD", "Cloud Computing"]
-        
-    def __str__(self):
-        return f"Apasionado por la tecnología con enfoque en mejorar sistemas mediante DevOps"
-        
-me = AboutMe()
-print(me)
+  <h2>Sobre mí</h2>
+  
+  <p><strong>Nombre:</strong> Arturo Roldán Sánchez</p>
+  
+  <p><strong>Rol:</strong> Ingeniero en Proyectos Industriales | DevOps</p>
+  
+  <p><strong>Pasión:</strong> Automatización de procesos y desarrollo de soluciones eficientes</p>
+  
+  <p><strong>Habilidades:</strong></p>
+  <ul>
+    <li>Soporte Técnico</li>
+    <li>Desarrollo Full-Stack</li>
+    <li>CI/CD</li>
+    <li>Cloud Computing</li>
+  </ul>
+  
+  <p><em>Apasionado por la tecnología con enfoque en mejorar sistemas mediante DevOps.</em></p>
+
+</div>
