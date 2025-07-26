@@ -27,12 +27,6 @@
 ## 🔍 Sobre mí
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: auto; line-height: 1.6;">
 
-  <h2>Sobre mí</h2>
-  
-  <p><strong>Nombre:</strong> Arturo Roldán Sánchez</p>
-  
-  <p><strong>Rol:</strong> Ingeniero en Proyectos Industriales | DevOps</p>
-  
   <p><strong>Pasión:</strong> Automatización de procesos y desarrollo de soluciones eficientes</p>
   
   <p><strong>Habilidades:</strong></p>
